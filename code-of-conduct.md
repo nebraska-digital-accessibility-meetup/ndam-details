@@ -12,7 +12,7 @@ We ask and expect everyone who participates in the meetup to:
 * Be mindful of your surroundings, and of your fellow participants.
 * Alert the meetup organisers if you notice a dangerous situation, someone in distress, or violations of this code of conduct (even if they seem inconsequential).
 * If attending the meetup in a venue that may be shared with members of the public, be respectful to all patrons at the venue.
-* To report any issues immediately please contact <organizaer email>.
+* To report any issues immediately please contact nebraska.a11y@gmail.com.
 
 Please take a moment to read through the full version below.
 
@@ -69,10 +69,10 @@ If someone is asked to stop unacceptable behaviour, they are expected to do so i
 If someone engages in unacceptable behaviour, the organisers may take any action they believe is appropriate. This includes (but is not limited to) temporary or permanent expulsion from the meetup (offenders will be reported and blocked to the fullest extent possible by the platform they are using).
 
 ### Reporting
-If you experience unacceptable behaviour, or you witness someone behaving in an unacceptable way, please contact <organizer email> immediately.
+If you experience unacceptable behaviour, or you witness someone behaving in an unacceptable way, please contact nebraska.a11y@gmail.com immediately.
 
 ### Grievances
-If you feel you have been unfairly accused of unacceptable behaviour, please contact <organizer email> immediately, and include a concise description of your grievance.
+If you feel you have been unfairly accused of unacceptable behaviour, please contact nebraska.a11y@gmail.com immediately, and include a concise description of your grievance.
 
 ### License and attribution
 This code of conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
